@@ -21,6 +21,12 @@ yarn-error.log*
 
 # local env files
 .env*.local
+.env
+
+# API keys and sensitive data (DO NOT COMMIT)
+*api-keys*.txt
+*secrets*.txt
+*.key
 
 out/
 build/

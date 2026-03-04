@@ -250,4 +250,4 @@ This project is created by [fahim5898@gmail.com](mailto:fahim5898@gmail.com).
 
 ---
 
-*Built with ❤️ using React, TypeScript, Plasmo, and Google Gemini AI.*
+*Built with ❤️ by Faim; using React, TypeScript, Plasmo, and Google Gemini AI.*
